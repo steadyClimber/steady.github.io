@@ -1,2 +1,2 @@
-# steady.github.io
+# steadyclimber.github.io
 website
